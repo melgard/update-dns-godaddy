@@ -1,0 +1,2 @@
+_acme-challenge.tudominio.com	vBIpNchrdfbDSUK0LzJ2oOjkmd58Ls0nkjSpkPowbgc
+_acme-challenge.dev.tudominio.com	EaBWHdtX3nil_DV5wntgWVTjwcVwXGxUDpXYKjmVKh8
